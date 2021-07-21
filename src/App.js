@@ -92,7 +92,7 @@ function App() {
       ) : (
         <div>
           <h4>DOUGHMAN UTILS</h4>
-          <p>Click to select SAMPLE_XLSX_FILE</p>
+          <p style={{ cursor: 'pointer' }}>Click to select SAMPLE_XLSX_FILE</p>
         </div>
       )}
     </div>
